@@ -298,7 +298,7 @@ Stock-Price-Prediction-Using-Machine-Learning/
 └── .gitignore                    # Ignored files for Git
 
 ```
-## Abhishek Ashok Sangule
-Email: abhisheksangule6@gmail.com
-LinkedIn: https://www.linkedin.com/in/abhishek-sangule-07b202319/
-GitHub: AbhishekRDJ
+## Sachin Chauhan
+Email: sachinjitendrachauhan@gmail.com
+LinkedIn: https://www.linkedin.com/in/sachin-chauhan-583598171/
+GitHub: Sachin-278
